@@ -5,11 +5,13 @@ This repository contains materials and information for Introduction to Python & 
 Tutorials
 
 *Introduction to Python
+
   ** Python libraries (numpy, matplotlib, pandas)
   ** Visualisation
   ** Reading data
   
 * Regression
+* 
   ** Introduction to Regresssion
   
   
