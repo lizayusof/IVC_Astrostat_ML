@@ -6,13 +6,13 @@ Tutorials
 
 *Introduction to Python
 
-  ** Python libraries (numpy, matplotlib, pandas)
-  ** Visualisation
-  ** Reading data
+  * Python libraries (numpy, matplotlib, pandas)
+  * Visualisation
+  * Reading data
   
 * Regression
-* 
-  ** Introduction to Regresssion
+
+  * Introduction to Regresssion
   
   
 Instruction for pull requests
