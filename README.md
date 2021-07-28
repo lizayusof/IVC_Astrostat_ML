@@ -4,14 +4,14 @@ This repository contains materials and information for Introduction to Python & 
 
 Tutorials
 
-* Introduction to Python
+* Introduction to Python (2/8/2021)
 
   * Python libraries (numpy, matplotlib, pandas)
   * Visualisation
   * Reading data
 
 
-* Regression
+* Regression (3/8/2021)
 
   * Introduction to Regresssion
   
